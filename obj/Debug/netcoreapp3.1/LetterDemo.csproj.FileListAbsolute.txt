@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/bin/Debug/netcoreapp3.1/LetterDemo.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/bin/Debug/netcoreapp3.1/LetterDemo.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/bin/Debug/netcoreapp3.1/LetterDemo.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/bin/Debug/netcoreapp3.1/LetterDemo.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/bin/Debug/netcoreapp3.1/LetterDemo.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/obj/Debug/netcoreapp3.1/LetterDemo.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/obj/Debug/netcoreapp3.1/LetterDemo.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/obj/Debug/netcoreapp3.1/LetterDemo.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/obj/Debug/netcoreapp3.1/LetterDemo.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/obj/Debug/netcoreapp3.1/LetterDemo.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/obj/Debug/netcoreapp3.1/LetterDemo.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/LetterDemo/obj/Debug/netcoreapp3.1/LetterDemo.genruntimeconfig.cache
